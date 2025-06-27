@@ -1,5 +1,6 @@
 {
   "name": "Ứng dụng Quản lý Kinh doanh Lúa Giống",
   "description": "Một ứng dụng web để quản lý toàn diện hoạt động kinh doanh lúa giống, bao gồm quản lý kho, đơn hàng, báo cáo và khách hàng.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [],
+  "prompt": ""
 }
